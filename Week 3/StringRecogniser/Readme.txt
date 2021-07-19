@@ -1,0 +1,3 @@
+-->use 1Hz clock (pin 18) to verify the FSM on krypton
+-->state diagram image is attached
+-->After programming the krypton board make reset input high and then make it to low 
